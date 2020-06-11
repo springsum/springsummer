@@ -4,14 +4,14 @@ Archi Linux 설치
 
 ## Connet to the internet ##
 ```
-ip link
-ip a
-ping archlinux.org
+# ip link
+# ip a
+# ping archlinux.org
 ```
 
 ## Partition the disks ##
 ```
-fdisk -l
+# fdisk -l
 * Example layouts: BIOS with MBR
 ------------------------------------------------------------------------
 Mount point			Partition	Partition type	Suggested size
