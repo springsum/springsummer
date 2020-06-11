@@ -26,9 +26,11 @@ Format the partitions
 # mkfs.xfs /dev/vda2
 # mkswap /dev/vda1
 # swapon /dev/vda1
+```
 
-Mount the file systems
+__ Mount the file systems __
 Mount the file system on the root partition to /mnt, for example:
+```
 # mount /dev/vda2 /mnt
 ```
 
