@@ -31,7 +31,7 @@ I got home around six. 6시에 귀가했습니다.
 
 **Where did the time go** : The time passed very quickly.   
 **midnight** : twelve o'clock at night
-
+====================
 #영어 발음   
 **what does that mean?** 그게 무슨 말이에요? 워러*잿*민?   
 **what did you say?**   
