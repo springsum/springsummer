@@ -30,5 +30,5 @@ I got home around six. 6시에 귀가했습니다.
 **put on** : 입다. <img src="./put-on.jpg" width="3%" height="3%" alt="put on"></img>
 
 **Where did the time go** : The time passed very quickly.   
-**midnight** : twelve o'clock at night
+**midnight** : twelve o'clock at night   
 **what does that mean?** 그게 무슨 말이에요? 워러*잿*민?
