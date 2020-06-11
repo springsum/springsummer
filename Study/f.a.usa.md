@@ -43,4 +43,7 @@ I got home around six. 6시에 귀가했습니다.
 **I don't know** Iono(아우노어) d발음이 생략됨   
 **I don't know what to do.** Iono what to do   
 **would have**: 나 뭐를 했을 거야   
-: I would have called you. -> I would've called you. -> I'd've called you. -> I'da called you.   
+: I would have called you -> I would've called you -> I'd've called you   
+: -> **I'da called you** (아이라)
+: **You'da**(유라)   
+
