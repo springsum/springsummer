@@ -1,5 +1,7 @@
 # family Album U.S.A
-* occasionally oc·ca·sion·al·ly[ əˈkeɪʒnəli ]  : sometime; not often  
+* __occasionally__ oc·ca·sion·al·ly[ əˈkeɪʒnəli ]  : sometime; not often  
+
+
 부사  
 1. 가끔  
 We occasionally meet for a drink after work.   
