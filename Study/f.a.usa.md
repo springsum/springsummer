@@ -44,7 +44,7 @@ I got home around six. 6시에 귀가했습니다.
 **I don't know what to do.** Iono what to do   
 **would have**: 나 뭐를 했을 거야   
 : I would have called you -> I would've called you(***아이우너***버) -> I'd've called you(***아이루***웁)   
-: -> **I'da called you** (***아이라***)
+: -> **I'da called you** (***아이라***)   
 : **You'da**(유라)   
 : **We'da**(위라)   
 : **They'da**(데이라)   
