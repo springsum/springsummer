@@ -1,2 +1,2 @@
 # #family Album U.S.A
-occasionally: sometime; not often
+* occasionally: sometime; not often
