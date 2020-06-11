@@ -2,15 +2,16 @@ Archi Linux 설치
 
 환경: bios only
 
-Connet to the internet
+## Connet to the internet ##
 ```
 ip link
 ip a
 ping archlinux.org
 ```
 
-Partition the disks
-# fdisk -l
+## Partition the disks ##
+```
+fdisk -l
 * Example layouts: BIOS with MBR
 ------------------------------------------------------------------------
 Mount point			Partition	Partition type	Suggested size
@@ -29,6 +30,7 @@ Format the partitions
 Mount the file systems
 Mount the file system on the root partition to /mnt, for example:
 # mount /dev/vda2 /mnt
+```
 
 Installation
 
