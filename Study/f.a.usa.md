@@ -9,7 +9,8 @@ speaking of keeping busy ~...  __speaking of__ : Use this expression to change t
 * __Speaking of which__ : 그런데 얘기가 나와서 말인데
 
 __"귀가"의 영어 표현__   
-go home, come home, get home은 "귀가"의 의미이지만,   다음과 같은 차이가 있습니다(참고 home은 명사가 아니라 부사입니다).
+go home, come home, get home은 "귀가"의 의미이지만,   
+다음과 같은 차이가 있습니다(참고 home은 명사가 아니라 부사입니다).
 
 go home의 의미와 예문
 go home은 (앞으로) 이동 될이 집이라는 뜻입니다.
