@@ -1,5 +1,5 @@
 # family Album U.S.A
-* **occasionally** : sometime; not often
+* **occasionally oc·ca·sion·al·ly[ əˈkeɪʒnəli ] ** : sometime; not often
 <pre>
 <code>
 public class BootSpringBootApplication {
