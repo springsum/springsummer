@@ -16,10 +16,10 @@ __Partition the disks__
 ------------------------------------------------------------------------
 Mount point			Partition	Partition type	Suggested size
 -------------------------------------------------------------------------
-/mnt				/dev/sdX1	Linux			Remainder of the device
-[SWAP]				/dev/sdX2	Linux swap		More than 512 MiB
+/mnt				/dev/vdX1	Linux			Remainder of the device
+[SWAP]				/dev/vdX2	Linux swap		More than 512 MiB
 
-# cfdisk /dev/sdX
+# cfdisk /dev/vdX
 Select label type : dos (BIOS with MBR)
 
 Format the partitions
