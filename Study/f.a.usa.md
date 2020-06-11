@@ -28,4 +28,4 @@ I got home around six. 6시에 귀가했습니다.
 ```
 
 ***put on*** : 입다.
-<img src="./IMG/put-on.jpg" width="40%" height="30%" alt="put on"></img>
+<img src="./put-on.jpg" width="40%" height="30%" alt="put on"></img>
