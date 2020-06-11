@@ -29,7 +29,7 @@ Format the partitions
 ```
 
 __Mount the file systems__   
-Mount the file system on the root partition to /mnt, for example:
+ount the file system on the root partition to /mnt, for example:
 ```
 # mount /dev/vda2 /mnt
 ```
