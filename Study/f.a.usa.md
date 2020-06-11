@@ -38,3 +38,5 @@ I got home around six. 6시에 귀가했습니다.
 **How have you been?** Haya been?(하야빈) 잘있었어?   
 **How did you do that?** Hadja do that?(핫자두댓) 그거 어떻게 한거야?   
 **How did he get in here?** Ha(how)de(h)e get in here? (하디 겟 인 히어) 걔 어떻게 여기 들어왔지?    
+**I don't know** Iono(아우노어) d발음이 생략됨   
+**I don't know what to do.** Iono what to do   
