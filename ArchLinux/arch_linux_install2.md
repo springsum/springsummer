@@ -2,14 +2,14 @@ Archi Linux 설치
 
 환경: bios only
 
-## Connet to the internet ##
+__Connet to the internet__
 ```
 # ip link
 # ip a
 # ping archlinux.org
 ```
 
-## Partition the disks ##
+__Partition the disks__
 ```
 # fdisk -l
 * Example layouts: BIOS with MBR
@@ -28,13 +28,13 @@ Format the partitions
 # swapon /dev/vda1
 ```
 
-__ Mount the file systems __
+__Mount the file systems__
 Mount the file system on the root partition to /mnt, for example:
 ```
 # mount /dev/vda2 /mnt
 ```
 
-Installation
+__Installation__
 
 Selet mirrors
 # vi /etc/pacman.d/mirrorlist
