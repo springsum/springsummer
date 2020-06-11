@@ -3,9 +3,11 @@ Archi Linux 설치
 환경: bios only
 
 Connet to the internet
-# ip link
-# ip a
-# ping archlinux.org
+```
+ip link
+ip a
+ping archlinux.org
+```
 
 Partition the disks
 # fdisk -l
