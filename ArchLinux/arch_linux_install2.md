@@ -28,7 +28,7 @@ Format the partitions
 # swapon /dev/vda1
 ```
 
-__Mount the file systems__
+__Mount the file systems__   
 Mount the file system on the root partition to /mnt, for example:
 ```
 # mount /dev/vda2 /mnt
