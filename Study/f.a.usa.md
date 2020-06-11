@@ -14,15 +14,15 @@ go home, come home, get home은 "귀가"의 의미이지만,
 
 **go home**의 의미와 예문: go home은 (앞으로) 이동 될이 집이라는 뜻입니다.
 ```
-Let 's go home now. ((외출 처에서) 이제 집에 돌아 갑시다)
+Let 's go home now. (외출 처에서) 이제 집에 돌아 갑시다
 ```
 
 **come home**의 의미와 예문 : come home은 "화자"집에있는 상태로 집에 대해 이야기 할 때 사용합니다.
 ```
-What time did you come home yesterday? ((집에서 부모가 아이에게) 당신은 어제 몇시에 돌아 왔습니까?)
+What time did you come home yesterday? (집에서 부모가 아이에게) 당신은 어제 몇시에 돌아 왔습니까?
 ```
 
 **get home**의 의미와 예문 : get home 집에 "도착하는 것 '에 초점이있는 단어입니다. 그러므로 시간에 대한 단어와 함께 사용되는 경우가 많습니다.
 ```
-I got home around six (6시에 귀가했습니다)
+I got home around six. 6시에 귀가했습니다.
 ```
