@@ -42,3 +42,5 @@ I got home around six. 6시에 귀가했습니다.
 **How did he get in here?** Ha(how)de(h)e get in here? (하디 겟 인 히어) 걔 어떻게 여기 들어왔지?    
 **I don't know** Iono(아우노어) d발음이 생략됨   
 **I don't know what to do.** Iono what to do   
+**would have**: 나 뭐를 했을 거야   
+: I would have called you. -> I would've cadlled you. -> I'd've called you. -> I'da called you.   
