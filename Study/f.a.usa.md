@@ -27,4 +27,6 @@ What time did you come home yesterday? (집에서 부모가 아이에게) 당신
 I got home around six. 6시에 귀가했습니다.
 ```
 
-***put on*** : 입다. <img src="./put-on.jpg" width="3%" height="3%" alt="put on"></img>
+**put on** : 입다. <img src="./put-on.jpg" width="3%" height="3%" alt="put on"></img>
+
+**Where did the time go**
