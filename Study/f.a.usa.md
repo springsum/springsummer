@@ -33,7 +33,7 @@ I got home around six. 6시에 귀가했습니다.
 **midnight** : twelve o'clock at night   
 **what does that mean?** 그게 무슨 말이에요? 워러*잿*민?   
 **what did you say?**   
- : -> what dij(dy)ew say? -> whadjew say?(웟지세이) -> whadjya say?(웟지여세이)뭐라고 했냐?   
-**How are you doing?** -> Ha(How)ya doing?(하야두잉) 잘지내?   
+ : what dij(dy)ew say? -> whadjew say?(웟지세이) -> whadjya say?(웟지여세이)뭐라고 했냐?   
+**How are you doing?** Ha(How)ya doing?(하야두잉) 잘지내?   
 **How have you been?** Haya been?(하야빈) 잘있었어?   
 **How did you do that?** Hadja do that?(핫자두댓) 그거 어떻게 한거야?   
